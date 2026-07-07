@@ -1,0 +1,9 @@
+app/
+  build.gradle
+  src/main/
+    AndroidManifest.xml
+    java/.../MainActivity.kt
+    java/.../LoginActivity.kt
+    res/layout/activity_main.xml
+build.gradle
+settings.gradle
